@@ -1,4 +1,4 @@
-# Michael is awesome
+# Awesome Title Here
 
 A place to play with `git`.
 
