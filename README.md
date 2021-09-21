@@ -1,4 +1,4 @@
-# Playground
+# Michael is awesome
 
 A place to play with `git`.
 
